@@ -14,6 +14,8 @@ Technologies Used:
 1. HTML5
 2. CSS3 (with beautiful animations and gradients)
 3. JavaScript (for all the interactive game logic)
-Demo:
+
+
+
 You can view the live demo here: (https://manishhdev.github.io/Tic-Tac-Toe-Game-/)
 
