@@ -72,14 +72,14 @@ const showWinner = (winner) => {
     disableBoxes();
   
     
-    const jpg = document.createElement("img");
-    jpg.src = "chudgaye.jpg";  
-    jpg.alt = "Game Over JPG"; 
-    jpg.style.width = "300px";  
-    jpg.style.marginTop = "20px"; 
+    // const jpg = document.createElement("img");
+    // jpg.src = "chudgaye.jpg";  
+    // jpg.alt = "Game Over JPG"; 
+    // jpg.style.width = "300px";  
+    // jpg.style.marginTop = "20px"; 
   
     
-    jpg.classList.add("flash-image");
+    // jpg.classList.add("flash-image");
   
     
     const loseMessage = document.createElement("p");
